@@ -1,0 +1,15 @@
+{
+	"header__logo": "images/logo.png",
+	"header__info": "\n                Первый поставщик представительство ADA instruments\n            ",
+	"header__services": "\n                Бесплатная доставка \n                Гарантийный срок 24 месяца\n                Нал., Безнал., ЕРИП, Халва\n            ",
+	"phone": [
+		"+375 11 111 12 11"
+	],
+	"goods__item": [
+		{
+			"goods__item-header": "Нивелир ADA CUME Mini",
+			"goods__item-image": "./images/ADAmini-Professional-edition.png",
+			"goods__item-price": "90 руб."
+		}
+	]
+}
