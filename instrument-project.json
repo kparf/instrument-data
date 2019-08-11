@@ -80,7 +80,7 @@
 			"advantages__item-description": "Более 7 лет продаж контрольно-измерительного оборудования"
 		},
 		{
-			"advantages__item-image": "./images/image-placeholder-148-89.png",
+			"advantages__item-image": "https://cdn.jsdelivr.net/gh/kparf/instrument-data@ede2c12e7056ded086faa04ce185a6a2e9fac3d3/images/benef-2.png",
 			"advantages__item-description": "Увеличенная гарантия – 24 мес."
 		},
 		{
