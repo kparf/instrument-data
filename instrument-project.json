@@ -10,6 +10,11 @@
 			"goods__item-header": "Нивелир ADA CUME Mini",
 			"goods__item-image": "./images/ADAmini-Professional-edition.png",
 			"goods__item-price": "90 руб."
+		},
+		{
+			"goods__item-header": "Дальномер рулетки",
+			"goods__item-image": "https://cdn.jsdelivr.net/gh/kparf/instrument-data@cfb41c63fbd691104716411e1d4c7a1df03ac204/images/Bosch-Zamo.png",
+			"goods__item-price": "130 руб."
 		}
 	]
 }
