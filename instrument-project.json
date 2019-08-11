@@ -84,7 +84,7 @@
 			"advantages__item-description": "Увеличенная гарантия – 24 мес."
 		},
 		{
-			"advantages__item-image": "./images/image-placeholder-148-89.png",
+			"advantages__item-image": "https://cdn.jsdelivr.net/gh/kparf/instrument-data@a445d263db4efcb240f5bdd58bc250f0ddeb94f3/images/benef-3.png",
 			"advantages__item-description": "Всегда в наличии полный ассортимент всей линейки продукции"
 		}
 	]
