@@ -16,6 +16,11 @@
 			"goods__item-header": "Дальномер рулетки",
 			"goods__item-image": "https://cdn.jsdelivr.net/gh/kparf/instrument-data@cfb41c63fbd691104716411e1d4c7a1df03ac204/images/Bosch-Zamo.png",
 			"goods__item-price": "130 руб."
+		},
+		{
+			"goods__item-header": "Аксессуары к нивелирам",
+			"goods__item-image": "https://cdn.jsdelivr.net/gh/kparf/instrument-data@df3bcd7958160a69ba65bf46284f4595d2117a53/images/Priemnik-Ada-LR-60.png",
+			"goods__item-price": "120 руб."
 		}
 	]
 }
