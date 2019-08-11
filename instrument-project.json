@@ -21,6 +21,26 @@
 			"goods__item-header": "Аксессуары к нивелирам",
 			"goods__item-image": "https://cdn.jsdelivr.net/gh/kparf/instrument-data@df3bcd7958160a69ba65bf46284f4595d2117a53/images/Priemnik-Ada-LR-60.png",
 			"goods__item-price": "120 руб."
+		},
+		{
+			"goods__item-header": "Лазерный нивелир ADA CUBE",
+			"goods__item-image": "https://cdn.jsdelivr.net/gh/kparf/instrument-data@6e2e3b893ac936d79c774d5d0ae8d5f2b01c0b0e/images/1.1.png",
+			"goods__item-price": "130 руб."
+		},
+		{
+			"goods__item-header": "Лазерный нивелир Instrumax Element 2D-2D Set",
+			"goods__item-image": "https://cdn.jsdelivr.net/gh/kparf/instrument-data@ec7e1db3e080c26abc75a9a427b5531d59cee981/images/ELEMENT-2D-1-2.png",
+			"goods__item-price": "80 руб."
+		},
+		{
+			"goods__item-header": "Лазерный нивелир Bosch GLL 2-15 Professional",
+			"goods__item-image": "https://cdn.jsdelivr.net/gh/kparf/instrument-data@774cff7124d9e878cba5ca8b341f0a8daf84c840/images/Bosch-GLL-2-15-Professional-1-3.png",
+			"goods__item-price": "290 руб."
+		},
+		{
+			"goods__item-header": "Лазерный нивелир ADA CUBE 360",
+			"goods__item-image": "https://cdn.jsdelivr.net/gh/kparf/instrument-data@c3745de292a8e5f00df149179ec5616bf4780f81/images/2.1.png",
+			"goods__item-price": "260 руб."
 		}
 	]
 }
