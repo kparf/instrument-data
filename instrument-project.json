@@ -87,5 +87,12 @@
 			"advantages__item-image": "https://cdn.jsdelivr.net/gh/kparf/instrument-data@a445d263db4efcb240f5bdd58bc250f0ddeb94f3/images/benef-3.png",
 			"advantages__item-description": "Всегда в наличии полный ассортимент всей линейки продукции"
 		}
+	],
+	"footer__logo": "images/logo-footer.png",
+	"footer__info": "\n                Первый поставщик представительство ADA instruments\n            ",
+	"footer__services": "\n                Бесплатная доставка \n                Гарантийный срок 24 месяца\n                Нал., Безнал., ЕРИП, Халва\n            ",
+	"footer__phones": [
+		"+375 17 281-27-11",
+		"+375 22 2234 234"
 	]
 }
