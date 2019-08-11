@@ -73,5 +73,19 @@
 			"advantages__item-description": "Описание"
 		},
 		"\n                        "
+	],
+	"advantages__item": [
+		{
+			"advantages__item-image": "https://cdn.jsdelivr.net/gh/kparf/instrument-data@44dcc06ab807200948d8183e50fcbba441abfb7c/images/benef-1.png",
+			"advantages__item-description": "Более 7 лет продаж контрольно-измерительного оборудования"
+		},
+		{
+			"advantages__item-image": "./images/image-placeholder-148-89.png",
+			"advantages__item-description": "Описание"
+		},
+		{
+			"advantages__item-image": "./images/image-placeholder-148-89.png",
+			"advantages__item-description": "Описание"
+		}
 	]
 }
