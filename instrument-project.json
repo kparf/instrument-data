@@ -1,5 +1,5 @@
 {
-	"header__logo": "images/logo.png",
+	"header__logo": "https://cdn.jsdelivr.net/gh/kparf/instrument-data@40f478f2ba656a090dfc80a1b101669aecde78f5/images/googlelogo_color_272x92dp.png",
 	"header__info": "\n                Первый поставщик представительство ADA instruments\n            ",
 	"header__services": "\n                Бесплатная доставка \n                Гарантийный срок 24 месяца\n                Нал., Безнал., ЕРИП, Халва\n            ",
 	"phone": [
