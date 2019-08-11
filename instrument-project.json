@@ -58,11 +58,20 @@
 		},
 		{
 			"delivery__item-header": "Почтой - наложенный платеж",
-			"delivery__item-description": "Оплата за товар при получении на почте. Пересылка бесплатно!"
+			"delivery__item-description": "Оплата за товар при получении на почте. Пересылка бесплатно!",
+			"delivery__item-image": "https://cdn.jsdelivr.net/gh/kparf/instrument-data@a59c9226a479b5073a2b886fbea3dcb4979cd829/images/deliv-2.png"
 		},
 		{
 			"delivery__item-header": "Доставка курьером БЕСПЛАТНО",
-			"delivery__item-description": "Доставка заказа по Минску на ваш адрес в руки - любое время!"
+			"delivery__item-description": "Доставка заказа по Минску на ваш адрес в руки - любое время!",
+			"delivery__item-image": "https://cdn.jsdelivr.net/gh/kparf/instrument-data@06bd2e859a452b866a758c2f1f74ee8b192bea76/images/deliv-3.png"
 		}
+	],
+	"comments__item": [
+		{
+			"advantages__item-image": "./images/image-placeholder-148-89.png",
+			"advantages__item-description": "Описание"
+		},
+		"\n                        "
 	]
 }
