@@ -41,6 +41,9 @@
 			"goods__item-header": "Лазерный нивелир ADA CUBE 360",
 			"goods__item-image": "https://cdn.jsdelivr.net/gh/kparf/instrument-data@c3745de292a8e5f00df149179ec5616bf4780f81/images/2.1.png",
 			"goods__item-price": "260 руб."
+		},
+		{
+			"goods__item-image": "https://cdn.jsdelivr.net/gh/kparf/instrument-data@bc1f5c0fc212a8da769332e7ca4d9a370a78f9b9/images/Artboard5.png"
 		}
 	]
 }
