@@ -46,6 +46,11 @@
 			"goods__item-image": "https://cdn.jsdelivr.net/gh/kparf/instrument-data@bc1f5c0fc212a8da769332e7ca4d9a370a78f9b9/images/Artboard5.png",
 			"goods__item-header": "HMS",
 			"goods__item-price": "1 руб."
+		},
+		{
+			"goods__item-header": "werwer",
+			"goods__item-image": "./images/image-placeholder.png",
+			"goods__item-price": "werwer"
 		}
 	],
 	"addition__text-header": "Построители лазерных плоскостей ADA 6D Servoliner / Green 2",
